@@ -5,28 +5,28 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "6435225"))
+API_ID = int(getenv("API_ID", "22008882"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+API_HASH = getenv("API_HASH", "cd2ee55895cb3a12830bf2998c413b28")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("OWNER_ID", "6462365139"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://gokuop:dipak@goku.41tvc2u.mongodb.net/?retryWrites=true&w=majority&appName=Goku")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "BEST_FRIEND_FOREVER1230")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "GOKU_MODZ")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "GOKUXEDITION")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
